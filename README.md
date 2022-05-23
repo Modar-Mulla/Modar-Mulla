@@ -1,6 +1,5 @@
 - My Name is Modar Mulla
 - I’m interested in Web Development and AI
-- I’m currently learning JavaScript and I'm working on getting better in Python and AI field
 - 📫 How to reach me : Gmail: moddar8moulla@gmail.com
 
 <!---
